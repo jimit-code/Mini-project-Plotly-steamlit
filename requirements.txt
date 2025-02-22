@@ -1,0 +1,4 @@
+streamlit
+plotly
+pandas  # If you're using Pandas for data processing
+numpy
